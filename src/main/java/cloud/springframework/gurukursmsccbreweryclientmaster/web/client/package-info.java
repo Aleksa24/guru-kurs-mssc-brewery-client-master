@@ -1,0 +1,1 @@
+package cloud.springframework.gurukursmsccbreweryclientmaster.web.client;
